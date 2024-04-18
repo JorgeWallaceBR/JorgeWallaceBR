@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🚀 SOBRE
 
-<!--
-**JorgeWallaceBR/JorgeWallaceBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jorge Wallace, tenho 30 anos e é um prazer ter você aqui. Estou imerso no mundo da tecnologia, estudando diariamente e aprendendo muito.
 
-Here are some ideas to get you started:
+No Exército Brasileiro, fui militar durante 8 anos, passando pelas graduações de soldado, cabo e terceiro sargento. 
+Durante esse tempo desenvolvi diversas Soft skills, da qual destaco a capacidade de trabalhar sobre extrema pressão.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MISSÃO DADA, MISSÃO CUMPRIDA! 
+
+- 📫 jorgewallace.ssantos@gmail.com
+
+# 🛠 HABILIDADES
+
+- 🔭 back-end: ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+
+- :hammer_and_wrench: Ferramentas de uso：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+
+- 💻 db：![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
